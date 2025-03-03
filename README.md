@@ -1,6 +1,4 @@
-<!--
-**kabir-asani/kabir-asani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+
 # `Hello World, I'm Varunkumar M S 👋🏽`
 
 A self-taught Full Stack Web Developer. 
