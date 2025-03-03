@@ -19,4 +19,7 @@ A self-taught Full Stack Web Developer.
 - AI
   - Mistral • ⭐
   - Weaviate (Vector Database) • ⭐`
+ 
+### Project
+ -Second Brain
 
