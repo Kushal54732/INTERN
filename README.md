@@ -21,5 +21,5 @@ A self-taught Full Stack Web Developer.
   - Weaviate (Vector Database) • ⭐`
  
 ### Project
- -Second Brain
+- Second Brain
 
