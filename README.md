@@ -1,5 +1,5 @@
 
-# `Hello World, I'm Varunkumar M S 👋🏽`
+# `Hello World, I'm Kushal TD👋🏽`
 
 A self-taught Full Stack Web Developer. 
 * I develop web applications in Next.js and React.js.
